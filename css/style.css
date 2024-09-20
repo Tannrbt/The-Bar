@@ -1,0 +1,126 @@
+body 
+{
+	background-color: black;
+	margin: 0;
+}
+
+html
+{
+	scroll-behavior: smooth;
+}	
+
+header 
+{
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../img/img7.jpg");
+}
+
+#welcome
+{
+	color: white;
+	font-family: freestyle script;
+}
+
+#box-1
+{
+	padding: 25px;
+	background-color: white;
+}
+
+#box-2
+{
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../img/img7.jpg");
+}
+
+h1
+{
+	font-family: Times New Roman;
+}
+
+#box-3
+{
+	padding: 25px;
+	background-color: #ffff99;
+}
+
+#myimg10
+{
+	height: 263px;
+}
+
+#box-4
+{
+	padding: 25px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../img/img14.jpg");
+}
+
+#box-5
+{
+	padding: 100px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../img/img7.jpg");
+}
+
+#mike
+{
+	font-family: freestyle script;
+}
+
+#icon-fb
+{
+	font-size: 50px;
+	border-radius: 10px;
+}
+
+#icon-insta
+{
+	font-size: 50px;
+	border-radius: 10px;
+}
+
+#myfb
+{
+	font-size: 20px;
+	border-radius: 10px;
+}
+
+#box-6
+{
+	padding: 25px;
+	background-color: white;
+}
+
+.myp
+{
+	font-size: 25px;
+	font-family: freestyle script;
+}
+
+#box-7
+{
+	padding: 50px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../img/img7.jpg");
+}
+
+#myfb1
+{
+	font-size: 25px;
+	border-radius: 50px;
+}
